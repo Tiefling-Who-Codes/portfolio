@@ -1,3 +1,21 @@
 .title{
-    font-size: 13;
+    font-size: 50px;
+    text-align: center;
 }
+.divA{
+    padding-left: 10px;
+}
+.bp{
+    padding-left: 15px;
+}
+ body{
+    font-size: 110%;
+ }
+
+ li{
+    font-size: 18px;
+ }
+
+ .GCSEs{
+    font-style: italic;
+ }
